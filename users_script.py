@@ -1,4 +1,4 @@
-'''Appjobs partners data script.
+'''Appjobs users data script.
 
 @author: Ali Etminan
 
